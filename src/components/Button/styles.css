@@ -1,0 +1,19 @@
+.button {
+  cursor: pointer;
+
+  width: 180px;
+  padding: 10px 15px;
+  border-radius: 18px;
+  border: none;
+
+  font-size: 16px;
+  font-weight: 400;
+
+  color: var(--white);
+  background: var(--green);
+}
+
+.button:hover {
+  transition: 0.3s;
+  opacity: 0.9;
+}
