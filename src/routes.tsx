@@ -12,12 +12,12 @@ const ProjectRoutes = () => {
   return (
     <Routes>
       <Route path='/'>
-        <Route path='/' element={<Offers />} />
-        <Route path='/offers' element={<Offers />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/home' element={<Home />} />
       </Route>
 
       <Route element={<ProtectRoutes redirectTo='/' />}>
-        <Route path='/home' element={<Home />} />
+        <Route path='/offers' element={<Offers />} />
       </Route>
     </Routes>
   );
