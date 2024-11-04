@@ -10,7 +10,7 @@
 
 ## 🔗 Quer acessar o projeto?
 
-[Clique aqui para ver](https://planos-internet-teste.vercel.app/)
+Clique [aqui](https://planos-internet-teste.vercel.app/)  para acessar o projeto.
 
 ## 🏹 Qual o objetivo do projeto?
 
